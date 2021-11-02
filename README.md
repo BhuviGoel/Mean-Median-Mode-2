@@ -1,1 +1,1 @@
-# Mean-Median-Mode-2
+# Mean Median Mode
